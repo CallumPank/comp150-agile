@@ -53,14 +53,6 @@ Web Link: http://ieeexplore.ieee.org/document/6240822/
 Full Text Link: http://ieeexplore.ieee.org/document/6240822/?part=1
 Comments:
 
-Paper 6
-Title: Using Scrum to manage student projects
-Citation: [6]
-Abstract: “Project work may be included in any class, but it is fundamental to software engineering courses and senior-level capstone classes. Projects expose students to the practical problems of software development, and provide dynamic and unscripted learning opportunities. However, the very nature of projects creates additional challenges for instructors. Left to themselves, most student teams will descend into crisis mode, spending inordinate amounts of time on the project in the last week or two. Such an ending is inevitably unsatisfying for both the students and the instructor. Clearly, instructor intervention is required, but what kind of intervention is appropriate? For the past two years, this author, a certified Scrum master, has been using a modified version of Scrum as an effective form of intervention.”
-Web Link: http://dl.acm.org/citation.cfm?id=1289295
-Full Text Link: http://delivery.acm.org/10.1145/1290000/1289295/p79-sanders.pdf?ip=194.82.100.162&id=1289295&acc=PUBLIC&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E8B10D4A780C8AD59%2E4D4702B0C3E38B35&CFID=694642920&CFTOKEN=50263883&__acm__=1479403084_dd760274899130a5692144c6f1e98580
-Comments:
-
 Paper 7
 Title: Problems in the Adoption of Agile-Scrum Methodologies: A Systematic Literature Review
 Citation: [7]
@@ -68,6 +60,7 @@ Abstract: “Agile methodologies are focused on the people and functional produc
 Web Link: http://ieeexplore.ieee.org/document/7477924/
 Full Text Link: http://ieeexplore.ieee.org/document/7477924/?part=1
 Comments:
+
 Paper 8 
 Title: The agility of agile methodology for teaching and learning activities
 Citation: [8]
